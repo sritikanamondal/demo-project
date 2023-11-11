@@ -1,3 +1,3 @@
 # demo-project
 this is my first git repository<br>
-author-Sritikana
+author-Sritikana mondal
